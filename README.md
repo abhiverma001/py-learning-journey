@@ -1,2 +1,2 @@
-# py-journey
+# Python Learning Journey
 Python Learnings 
