@@ -1,1 +1,1 @@
-# ~~~~~~~~~~~~ This is python learning repo ~~~~~~~~~~~
+# ~~~~~ This is python learning repo ~~~~~
