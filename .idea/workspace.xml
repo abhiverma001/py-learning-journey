@@ -5,116 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e5b7863-cd34-4de5-8c8c-395ad1b1b9cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/git-repos.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py-learning-journey/100-days-of-code/Day 1/Band Name Generator Project/taks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py-learning-journey/100-days-of-code/Day 1/Inputs/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py-learning-journey/100-days-of-code/Day 1/Printing/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py-learning-journey/100-days-of-code/Day 1/String Manipulation/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py-learning-journey/100-days-of-code/Day 1/Variable Naming/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py-learning-journey/100-days-of-code/Day 1/Variables/task.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/py-learning-journey.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 10/Calculator Project/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 10/Docstrings/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 10/Functions with Outputs/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 10/Functions with Outputs/task.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 10/Multiple Return Values/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 10/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 11/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 11/task/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 11/task/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 12/Block Scope/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 12/Block Scope/task.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 12/Global Constants/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 12/Global Constants/task.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 12/Global Vars/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 12/Namespaces and Scope/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 12/Number Guessing Project/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 12/Number Guessing Project/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 12/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 13/Describe the Problem/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 13/Fix the Errors/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 13/Play Computer/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 13/Reproduce the Bug/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 13/Use Print/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 13/Use a Debugger/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 13/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 14/Higher or Lower Project/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 14/Higher or Lower Project/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 14/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 15/Coffee Machine Project/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 15/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 16-100/Where are the rest of the days/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 16-100/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 2/Type Error, Checking and Conversion/task.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 3/If Else/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 3/Logical Operators/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 3/Modulo/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 3/Modulo/task.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 3/Multiple Ifs/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 3/Nesting and Elif/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 3/Python Pizza/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 3/Python Pizza/tests/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 3/Python Pizza/tests/test_task.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 3/Treasure Island Project/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 3/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 4/Banker Roulette/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 4/IndexError/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 4/Lists/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 4/Lists/task.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 4/Random Module/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 4/Random Module/task.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 4/Rock Paper Scissors/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 4/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 5/For Loops with Range/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 5/For Loops with Range/task.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 5/For Loops/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 5/Highest Score/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 5/Password Generator Project/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 5/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 6/Functions/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 6/Functions/task.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 6/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 7/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 7/task/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 8/Caesar Cipher 1/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 8/Caesar Cipher 2/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 8/Caesar Cipher 3/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 8/Functions with Inputs/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 8/Functions with Inputs/task.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 8/Positional vs Keyword Arguments/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 8/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 9/Blind Auction Project/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 9/Dictionaries/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 9/Nested Lists and Dictionaries/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 9/Nested Lists and Dictionaries/task.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 9/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/a-resource-&amp;-tips/100+Days+of+Python+Check+Off+Posters.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/a-resource-&amp;-tips/12+Rules+to+Learn+to+Code+eBook-Copyright+App+Brewery.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/a-resource-&amp;-tips/Coding+Notebook+Sheets+to+Print.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/a-resource-&amp;-tips/Python+Syntax+Cheat+Sheet+Booklet+v2.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/a-resource-&amp;-tips/Syllabus+for+100+Days+of+Python.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/py-learning-journey/100-days-of-code/Day 1/Band Name Generator Project/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/py-learning-journey/100-days-of-code/Day 1/Band Name Generator Project/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/py-learning-journey/100-days-of-code/Day 1/Inputs/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/py-learning-journey/100-days-of-code/Day 1/Inputs/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/py-learning-journey/100-days-of-code/Day 1/Printing/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/py-learning-journey/100-days-of-code/Day 1/Printing/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/py-learning-journey/100-days-of-code/Day 1/String Manipulation/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/py-learning-journey/100-days-of-code/Day 1/String Manipulation/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/py-learning-journey/100-days-of-code/Day 1/Variable Naming/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/py-learning-journey/100-days-of-code/Day 1/Variable Naming/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/py-learning-journey/100-days-of-code/Day 1/Variables/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/py-learning-journey/100-days-of-code/Day 1/Variables/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/py-learning-journey/100-days-of-code/Day 1/lesson-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/py-learning-journey/100-days-of-code/Day 1/lesson-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/py-learning-journey/100-days-of-code/Day 1/task/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/py-learning-journey/100-days-of-code/Day 1/task/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 1/Printing/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/100-days-of-code/Day 1/Printing/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 3/Nesting and Elif/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/100-days-of-code/Day 3/Nesting and Elif/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 3/Nesting and Elif/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 3/Nesting and Elif/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 3/Python Pizza/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/100-days-of-code/Day 3/Python Pizza/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 3/Python Pizza/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 3/Python Pizza/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 3/Python Pizza/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/100-days-of-code/Day 3/Python Pizza/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 3/Treasure Island Project/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 3/Treasure Island Project/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 3/lesson-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 3/lesson-remote-info.yaml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +34,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/py-learning-journey" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -147,18 +52,24 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python._pydev_execfile.executor": "Run",
+    "Python.solution.executor": "Run",
     "Python.taks.executor": "Run",
+    "Python.task (1).executor": "Run",
     "Python.task.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "//wsl.localhost/Debian/home/abhiverma001/learning/git-repos/py-learning-journey",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-dfff61a61320-9cdd278e9d02-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.25410.159" />
+        <option value="bundled-python-sdk-8753aad8314d-d902c0275401-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-252.25557.178" />
       </set>
     </attachedChunks>
   </component>
