@@ -6,20 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="7e5b7863-cd34-4de5-8c8c-395ad1b1b9cd" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/py-learning-journey.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/py-learning-journey.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 1/Printing/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/100-days-of-code/Day 1/Printing/task.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 3/Nesting and Elif/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/100-days-of-code/Day 3/Nesting and Elif/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 3/Nesting and Elif/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 3/Nesting and Elif/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 3/Python Pizza/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/100-days-of-code/Day 3/Python Pizza/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 3/Python Pizza/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 3/Python Pizza/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 3/Python Pizza/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/100-days-of-code/Day 3/Python Pizza/task.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 3/Treasure Island Project/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 3/Treasure Island Project/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 3/lesson-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 3/lesson-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 2/Number Manipulation/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/100-days-of-code/Day 2/Number Manipulation/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 3/Nesting and Elif/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/100-days-of-code/Day 3/Nesting and Elif/task.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +25,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -62,8 +55,8 @@
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "//wsl.localhost/Debian/home/abhiverma001/learning/git-repos/py-learning-journey",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "last_opened_file_path": "/home/abhiverma001/Desktop/python-learning/py-learning-journey",
+    "settings.editor.selected.configurable": "preferences.general"
   }
 }]]></component>
   <component name="SharedIndexes">
