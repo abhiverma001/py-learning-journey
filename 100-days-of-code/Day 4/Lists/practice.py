@@ -11,6 +11,6 @@ states_of_india.extend(["Maharastra", "Goa"])
 print(states_of_india)
 
 #there are many other data structure function. ref the python official doc and do practice.
-
+#https://docs.python.org/3/tutorial/datastructures.html
 
 
