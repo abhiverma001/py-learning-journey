@@ -26,7 +26,7 @@ elif pepperoni == "Y" and size == "M":
 elif pepperoni == "Y" and size == "L":
     bill += 3
 
-#or
+#or above solution can be coded like below
 
 # if pepperoni == "Y":
 #     if size == "S":
