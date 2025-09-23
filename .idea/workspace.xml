@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e5b7863-cd34-4de5-8c8c-395ad1b1b9cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Practice-Projects/project-1_student-management-system/project-1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice-Projects/project-1_student-management-system/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice-Projects/project-2_guessing-games-hub/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice-Projects/project-3_shopping-and-password-utility/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice-Projects/project-2_guessing-games-hub/project-2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice-Projects/project-2_guessing-games-hub/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Practice-Projects/project-2_guessing-games-hub/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +44,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python._pydev_execfile.executor": "Run",
     "Python.project-1.executor": "Run",
+    "Python.project-2.executor": "Run",
     "Python.solution.executor": "Run",
     "Python.taks.executor": "Run",
     "Python.task (1).executor": "Run",

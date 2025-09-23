@@ -24,3 +24,19 @@ A mini games hub where the user can choose from a few fun games.
 - Logical Operators  
 
 ## ▶️ Example Run  
+FizzDuzz Game!\
+1\
+2\
+Fizz\
+4\
+Buzz\
+Fizz\
+Pop\
+8\
+Fizz\
+Buzz\
+11\
+Fizz\
+13\
+Pop\
+Fizz\
