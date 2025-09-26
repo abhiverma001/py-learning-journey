@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e5b7863-cd34-4de5-8c8c-395ad1b1b9cd" name="Changes" comment="u">
+      <change afterPath="$PROJECT_DIR$/100-days-of-code/Day 6/Functions/custom_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/100-days-of-code/Day 6/Functions/task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/100-days-of-code/Day 6/Functions/while_loop.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 6/Functions/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 6/Functions/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 6/lesson-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/100-days-of-code/Day 6/lesson-remote-info.yaml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +48,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python._pydev_execfile.executor": "Run",
+    "Python.practice.executor": "Run",
     "Python.project-1.executor": "Run",
     "Python.project-2.executor": "Run",
     "Python.project-3.executor": "Run",
