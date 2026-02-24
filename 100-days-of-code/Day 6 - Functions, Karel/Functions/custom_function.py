@@ -1,6 +1,6 @@
 #check the total letters
-print("Hello")
-num_char = len("Hello")
+print("Hello Abhishek")
+num_char = len("Hello Abhishek")
 print(num_char)
 
 
@@ -10,6 +10,3 @@ def my_function(): #our own custom function
     print("Abhishek")
 
 my_function()  #now calling our own custom function
-
-
-#while loop practice
